@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "251583881445",
+    "firebase_url": "https://notifyreact.firebaseio.com",
+    "project_id": "notifyreact",
+    "storage_bucket": "notifyreact.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251583881445:android:b683661c63cfe955",
+        "android_client_info": {
+          "package_name": "com.notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251583881445-p81o2i2pbi029vuqnas3uh2kjf0ttsn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-kAUphT81R-MyqPEToA4Bm-_Yxn5ZzNI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
